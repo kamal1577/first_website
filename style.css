@@ -1,0 +1,47 @@
+header  p{
+  text-align: center;
+}
+
+body{
+  background: lightblue;
+}
+h1{
+  text-align:center;
+  color: purple;
+font-family:  'Helvectica Neue 'serif;
+}
+article img{
+width:170px;
+hight: 170px;
+}
+h2{
+  color: red;
+}
+p{
+  margin:auto;
+}
+h4{
+  border-width:10px;
+  border-color:  blue;
+}
+.p{
+font-size:16px;
+}
+a{
+  padding:6px;
+}
+a:visited{
+  color: blue;
+}
+a:hover{
+  background: none;
+}
+footer{
+  padding-top:40px;
+}
+footer p{
+  color:blue;
+  font-size:14px;
+  box-sizing:16px;
+  border-color:red;
+}
